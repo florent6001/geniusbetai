@@ -1,7 +1,7 @@
 # GeniusBetAI
 This project uses an API from the RapidAPI website for football predictions. The API can be found at: https://rapidapi.com/boggio-analytics/api/football-prediction/.
 
-![GeniusBetAI GIF](https://cdn.discordapp.com/attachments/696786508149030923/1111776405861175296/demo.gif)
+![GeniusBetAI GIF](./demo.gif)
 
 ## Description
 GeniusBetAI is a React Native mobile application that predicts the outcomes of upcoming football matches. Users can view a list of scheduled matches and the corresponding predictions for each match.
